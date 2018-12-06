@@ -11,9 +11,6 @@ Move - Arrow keys
 Place Bomb - Num 0
 
 ## Notes
-### Time spent
-I spent roughly 17-18 hours on this project, including research.
-
 ### Future improvements
 * Implement a viable scoring system. I was not able to do that in the timespan allotted.
 * Implement various pickups. Though the player, map and bomb classes are modular in nature to accomodate pickups, I was not able to make pickups in the given time.
